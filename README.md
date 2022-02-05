@@ -1,5 +1,5 @@
 # Odin
-discord tool : can get discord token user / dm all friends
+**discord tool : can get discord token user / dm all friends**
 
 [1] - click on setup.bat (install requirements.txt)
       
