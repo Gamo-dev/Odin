@@ -1,5 +1,6 @@
 import discord
 import os
+import ultrarequests
 import colorama
 import time
 from win10toast import ToastNotifier
